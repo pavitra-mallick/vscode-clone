@@ -1,1 +1,0 @@
-Clone of VS Code landing page!
